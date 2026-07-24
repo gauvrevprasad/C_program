@@ -17,6 +17,11 @@ int stringrev(char* a,int len)
 }
 
 
+
+
+
+
+
 int main()
 {
     char a[30];
